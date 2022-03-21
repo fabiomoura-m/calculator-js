@@ -1,4 +1,4 @@
-#Calculator
+# Calculator
 
 Calculadora desenvolvida durante a mentoria do bootcamp TakeBlip Web Developer na Digital Innovation One.
 
