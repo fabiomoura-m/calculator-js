@@ -49,3 +49,54 @@ span {
   font-size: 22pt;
   font-weight: bolder;
 }
+
+.buttons {
+  padding: 1rem;
+  background-color: #f2f2f2;
+  margin-top: -20px;
+}
+
+section {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.fourth {
+  margin-bottom: 0;
+}
+
+.button {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  background-color: lightgrey;
+  color: #2c2c2c;
+  border: none;
+  font-weight: bolder;
+  font-family: 'Inter', sans-serif;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: grey;
+  color: #f2f2f2;
+  transition: 0.2s;
+}
+
+.button-clear {
+  position: absolute;
+  margin-left: 120px;
+  margin-top: 300px;
+  border-radius: 4px;
+  width: 80px;
+}
+
+.equal {
+  background-color: darkred;
+  color: #f2f2f2;
+}
+.equal:hover {
+  background-color: red;
+  transition: 0.2s;
+}
